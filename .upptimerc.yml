@@ -14,7 +14,7 @@ status-website:
   # cname: 
   baseUrl: /uptime-monitor
   logoUrl: assets/map-svgrepo.svg
-  name: Service Status Monitor (Test)
+  name: Servisų statusų stebėsena (Test)
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/jovita-s/uptime-monitor). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
@@ -24,7 +24,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Geoportal
       href: https://www.geoportal.lt/
-  theme: ocean
-
+  theme: light
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
