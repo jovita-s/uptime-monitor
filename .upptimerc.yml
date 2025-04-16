@@ -19,7 +19,7 @@ status-website:
   introMessage: "Tai yra testinis servisų stebėsenos puslapis, pateikiantis **realaus laiko** duomenis iš mūsų [GitHub repozitorijos](https://github.com/jovita-s/uptime-monitor). Puslapis sukurtas naudojant Upptime atviro kodo sprendimą paslaugų stebėsenai, kuris naudoja: GitHub Actions, GitHub Issues ir GitHub Pages funkcionalumą."
   navbar:
     - title: Status
-      href: /
+      href: /uptime-monitor
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Geoportal
