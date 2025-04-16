@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "TEST-site",
+    "url": "https://www.geoportal.lt",
+    "icon": "https://icons.duckduckgo.com/ip3/www.geoportal.lt.ico",
+    "slug": "test-site",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 108,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "time": 1973,
+    "timeDay": 1973,
+    "timeWeek": 1973,
+    "timeMonth": 1973,
+    "timeYear": 1973,
     "dailyMinutesDown": {}
   }
 ]
