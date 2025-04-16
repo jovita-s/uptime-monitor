@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: 
   baseUrl: /uptime-monitor
-  logoUrl: assets/map-svgrepo.svg
+  logoUrl: assets/upptime-icon.svg
   name: Servisų statusų stebėsena (Test)
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/jovita-s/uptime-monitor). No server required — just GitHub Actions, Issues, and Pages.
