@@ -14,9 +14,9 @@ status-website:
   # cname: 
   baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Servisų statusų stebėsena (Test)
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/jovita-s/uptime-monitor). No server required — just GitHub Actions, Issues, and Pages.
+  name: Servisų monitoringas (Test)
+  introTitle: "**Šiame puslapyje pateikiama informacija apie stebimų paslaugų veikimą. Puslapis sukurtas naudojant "Upptime" atviro kodo sprendimą paslaugų stebėsenai, pasiltelkiant GitHub funkcionalumą.**"
+  introMessage: Tai yra testinis servisų stebėsenos puslapis, pateikiantis **realaus laiko** duomenis iš mūsų [GitHub repozitorijos](https://github.com/jovita-s/uptime-monitor). Sprendimas naudoja: GitHub Actions, GitHub Issues ir GitHub Pages funkcionalumą.
   navbar:
     - title: Status
       href: /
