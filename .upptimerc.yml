@@ -16,6 +16,7 @@ status-website:
   # cname: 
   baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/jovita-s/uptime-monitor/refs/heads/master/assets/map-svgrepo-com.svg
+  faviconSvg: https://raw.githubusercontent.com/jovita-s/uptime-monitor/refs/heads/master/assets/globe-gps-location-svgrepo-com.svg
   name: Servisų monitoringas (Test)
   introTitle: "**Šiame puslapyje pateikiama informacija apie stebimų paslaugų veikimą.**"
   introMessage: "Tai yra testinis servisų stebėsenos puslapis, pateikiantis **realaus laiko** duomenis iš mūsų [GitHub repozitorijos](https://github.com/jovita-s/uptime-monitor). Puslapis sukurtas naudojant Upptime atviro kodo sprendimą paslaugų stebėsenai, kuris naudoja: GitHub Actions, GitHub Issues ir GitHub Pages funkcionalumą."
