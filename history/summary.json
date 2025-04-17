@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1800,
-    "timeDay": 1800,
-    "timeWeek": 1800,
-    "timeMonth": 1800,
-    "timeYear": 1800,
+    "time": 1881,
+    "timeDay": 1881,
+    "timeWeek": 1881,
+    "timeMonth": 1881,
+    "timeYear": 1881,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 415,
-    "timeWeek": 415,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 406,
+    "timeDay": 406,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "test-down-service",
+    "url": "https://vlkiis.lki.lt/gis/app/gisproxy.ashx/rest/services/LKIIS/Tarmes/MapServer/export?dpi=96&transparent=true&format=png8&layers=show%3A0&bbox=509904.0057917094%2C6175386.471634376%2C510281.8315473609%2C6175911.935185304&bboxSR=3346&imageSR=3346&size=714%2C993&f=image",
+    "icon": "https://icons.duckduckgo.com/ip3/vlkiis.lki.lt.ico",
+    "slug": "test-down-service",
+    "status": "down",
+    "uptime": "95.73%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "95.73%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   }
 ]
