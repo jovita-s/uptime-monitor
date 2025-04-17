@@ -40,19 +40,19 @@
     "url": "https://vlkiis.lki.lt/gis/app/gisproxy.ashx/rest/services/LKIIS/Tarmes/MapServer/export?dpi=96&transparent=true&format=png8&layers=show%3A0&bbox=509904.0057917094%2C6175386.471634376%2C510281.8315473609%2C6175911.935185304&bboxSR=3346&imageSR=3346&size=714%2C993&f=image",
     "icon": "https://icons.duckduckgo.com/ip3/vlkiis.lki.lt.ico",
     "slug": "test-down-service",
-    "status": "down",
-    "uptime": "91.77%",
-    "uptimeDay": "91.77%",
-    "uptimeWeek": "91.77%",
-    "uptimeMonth": "91.77%",
-    "uptimeYear": "91.77%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.87%",
+    "uptimeDay": "1.87%",
+    "uptimeWeek": "1.87%",
+    "uptimeMonth": "1.87%",
+    "uptimeYear": "1.87%",
+    "time": 976,
+    "timeDay": 976,
+    "timeWeek": 976,
+    "timeMonth": 976,
+    "timeYear": 976,
     "dailyMinutesDown": {
-      "2025-04-17": 0
+      "2025-04-17": 81
     }
   }
 ]
