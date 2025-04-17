@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1856,
-    "timeDay": 1856,
-    "timeWeek": 1856,
-    "timeMonth": 1856,
-    "timeYear": 1856,
+    "time": 1814,
+    "timeDay": 1814,
+    "timeWeek": 1814,
+    "timeMonth": 1814,
+    "timeYear": 1814,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 405,
-    "timeWeek": 405,
-    "timeMonth": 405,
-    "timeYear": 405,
+    "time": 390,
+    "timeDay": 390,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vlkiis.lki.lt.ico",
     "slug": "test-down-service",
     "status": "down",
-    "uptime": "78.71%",
-    "uptimeDay": "78.71%",
-    "uptimeWeek": "78.71%",
-    "uptimeMonth": "78.71%",
-    "uptimeYear": "78.71%",
+    "uptime": "48.13%",
+    "uptimeDay": "48.13%",
+    "uptimeWeek": "48.13%",
+    "uptimeMonth": "48.13%",
+    "uptimeYear": "48.13%",
     "time": 1033,
     "timeDay": 1033,
     "timeWeek": 1033,
     "timeMonth": 1033,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2025-04-17": 81
+      "2025-04-17": 324
     }
   }
 ]
