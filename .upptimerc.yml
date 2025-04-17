@@ -7,6 +7,7 @@ sites:
     url: https://www.geoportal.lt
   - name: Foninis žemėlapis
     url: https://www.geoportal.lt/mapproxy/gisc_pagrindinis/MapServer/tile/11/14532/21046
+    
   - name: test-down-service
     url: https://vlkiis.lki.lt/gis/app/gisproxy.ashx/rest/services/LKIIS/Tarmes/MapServer/export?dpi=96&transparent=true&format=png8&layers=show%3A0&bbox=509904.0057917094%2C6175386.471634376%2C510281.8315473609%2C6175911.935185304&bboxSR=3346&imageSR=3346&size=714%2C993&f=image
 
@@ -16,7 +17,7 @@ status-website:
   # cname: 
   baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/jovita-s/uptime-monitor/refs/heads/master/assets/map-svgrepo-com.svg
-  faviconSvg: https://raw.githubusercontent.com/jovita-s/uptime-monitor/refs/heads/master/assets/globe-gps-location-svgrepo-com.svg
+  faviconSvg: https://raw.githubusercontent.com/jovita-s/uptime-monitor/refs/heads/master/assets/map-svgrepo-com.svg
   name: Servisų monitoringas (Test)
   introTitle: "**Šiame puslapyje pateikiama informacija apie stebimų paslaugų veikimą.**"
   introMessage: "Tai yra testinis servisų stebėsenos puslapis, pateikiantis **realaus laiko** duomenis iš mūsų [GitHub repozitorijos](https://github.com/jovita-s/uptime-monitor). Puslapis sukurtas naudojant Upptime atviro kodo sprendimą paslaugų stebėsenai, kuris naudoja: GitHub Actions, GitHub Issues ir GitHub Pages funkcionalumą."
