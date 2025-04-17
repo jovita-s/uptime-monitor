@@ -7,6 +7,8 @@ sites:
     url: https://www.geoportal.lt
   - name: Foninis žemėlapis
     url: https://www.geoportal.lt/mapproxy/gisc_pagrindinis/MapServer/tile/11/14532/21046
+  - name: test-down-service
+    url: https://vlkiis.lki.lt/gis/app/gisproxy.ashx/rest/services/LKIIS/Tarmes/MapServer/export?dpi=96&transparent=true&format=png8&layers=show%3A0&bbox=509904.0057917094%2C6175386.471634376%2C510281.8315473609%2C6175911.935185304&bboxSR=3346&imageSR=3346&size=714%2C993&f=image
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
