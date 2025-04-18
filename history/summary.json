@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1762,
-    "timeDay": 1604,
-    "timeWeek": 1762,
-    "timeMonth": 1762,
-    "timeYear": 1762,
+    "time": 1745,
+    "timeDay": 1475,
+    "timeWeek": 1745,
+    "timeMonth": 1745,
+    "timeYear": 1745,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 331,
-    "timeWeek": 377,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "time": 375,
+    "timeDay": 344,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,39 @@
     "icon": "https://icons.duckduckgo.com/ip3/vlkiis.lki.lt.ico",
     "slug": "test-down-service",
     "status": "down",
-    "uptime": "32.22%",
-    "uptimeDay": "21.50%",
-    "uptimeWeek": "32.22%",
-    "uptimeMonth": "32.22%",
-    "uptimeYear": "32.22%",
+    "uptime": "26.65%",
+    "uptimeDay": "19.11%",
+    "uptimeWeek": "26.65%",
+    "uptimeMonth": "26.65%",
+    "uptimeYear": "26.65%",
     "time": 1009,
     "timeDay": 961,
     "timeWeek": 1009,
     "timeMonth": 1009,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2025-04-18": 512,
+      "2025-04-18": 886,
       "2025-04-17": 700
+    }
+  },
+  {
+    "name": "WM ORT10LT (WMS)",
+    "url": "https://www.geoportal.lt/wss/service/NZT-ORT10LT_recent-wm-WMS/httpauth/licid-LGII-4b6ccc8b-1a4a-4d86-ae5f-d993613361a0",
+    "icon": "https://icons.duckduckgo.com/ip3/www.geoportal.lt.ico",
+    "slug": "wm-ort-10-lt-wms",
+    "status": "down",
+    "uptime": "6.43%",
+    "uptimeDay": "6.43%",
+    "uptimeWeek": "6.43%",
+    "uptimeMonth": "6.43%",
+    "uptimeYear": "6.43%",
+    "time": 693,
+    "timeDay": 693,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 693,
+    "dailyMinutesDown": {
+      "2025-04-18": 0
     }
   }
 ]
