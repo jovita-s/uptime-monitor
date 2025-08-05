@@ -4,10 +4,10 @@
     "url": "https://www.geoportal.lt",
     "icon": "https://icons.duckduckgo.com/ip3/www.geoportal.lt.ico",
     "slug": "test-geoportal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1880,
@@ -16,6 +16,7 @@
     "timeMonth": 1814,
     "timeYear": 1880,
     "dailyMinutesDown": {
+      "2025-08-05": 1,
       "2025-07-27": 20
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.geoportal.lt/mapproxy/gisc_pagrindinis/MapServer/tile/11/14532/21046",
     "icon": "https://icons.duckduckgo.com/ip3/www.geoportal.lt.ico",
     "slug": "foninis-zemelapis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 396,
     "timeYear": 533,
     "dailyMinutesDown": {
+      "2025-08-05": 0,
       "2025-07-27": 20
     }
   },
@@ -45,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vlkiis.lki.lt.ico",
     "slug": "test-down-service",
     "status": "up",
-    "uptime": "83.66%",
+    "uptime": "83.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "83.66%",
+    "uptimeYear": "83.71%",
     "time": 1850,
     "timeDay": 962,
     "timeWeek": 1141,
@@ -99,7 +101,7 @@
     "timeMonth": 155,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-08-05": 147,
+      "2025-08-05": 595,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
