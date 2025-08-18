@@ -1,7 +1,7 @@
 url: https://www.geoportal.lt/wss/service/NZT-ORT10LT_recent-wm-WMS/httpauth/licid-LGII-4b6ccc8b-1a4a-4d86-ae5f-d993613361a0?SERVICE=WMS&REQUEST=GetMap&FORMAT=image/png&TRANSPARENT=TRUE&STYLES=&VERSION=1.1.1&LAYERS=0&WIDTH=949&HEIGHT=865&SRS=EPSG:3346&BBOX=484614.55451870296,6061066.698493506,610159.5972754551,6175499.219025214
 status: down
 code: 401
-responseTime: 161
-lastUpdated: 2025-08-17T23:15:40.529Z
+responseTime: 155
+lastUpdated: 2025-08-18T23:15:33.262Z
 startTime: 2025-05-02T12:19:07.368Z
 generator: Upptime <https://github.com/upptime/upptime>
