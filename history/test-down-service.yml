@@ -1,7 +1,7 @@
 url: https://vlkiis.lki.lt/gis/app/gisproxy.ashx/rest/services/LKIIS/Tarmes/MapServer/export?dpi=96&transparent=true&format=png8&layers=show%3A0&bbox=509904.0057917094%2C6175386.471634376%2C510281.8315473609%2C6175911.935185304&bboxSR=3346&imageSR=3346&size=714%2C993&f=image
 status: up
 code: 200
-responseTime: 1152
-lastUpdated: 2025-11-20T23:15:50.864Z
+responseTime: 1271
+lastUpdated: 2025-11-21T23:15:20.927Z
 startTime: 2025-04-17T07:19:29.391Z
 generator: Upptime <https://github.com/upptime/upptime>
