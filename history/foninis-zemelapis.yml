@@ -1,7 +1,7 @@
 url: https://www.geoportal.lt/mapproxy/gisc_pagrindinis/MapServer/tile/11/14532/21046
-status: up
-code: 200
-responseTime: 1131
-lastUpdated: 2026-06-15T00:05:25.360Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-06-15T13:32:17.771Z
 startTime: 2025-04-16T20:35:19.701Z
 generator: Upptime <https://github.com/upptime/upptime>
