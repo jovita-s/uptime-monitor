@@ -4,11 +4,11 @@
     "url": "https://www.geoportal.lt",
     "icon": "https://icons.duckduckgo.com/ip3/www.geoportal.lt.ico",
     "slug": "test-geoportal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
     "time": 1971,
     "timeDay": 2350,
@@ -23,7 +23,8 @@
       "2026-06-15": 277,
       "2026-06-16": 172,
       "2026-08-01": 4,
-      "2026-07-31": 11
+      "2026-07-31": 11,
+      "2026-08-07": 15
     }
   },
   {
@@ -31,11 +32,11 @@
     "url": "https://www.geoportal.lt/mapproxy/gisc_pagrindinis/MapServer/tile/11/14532/21046",
     "icon": "https://icons.duckduckgo.com/ip3/www.geoportal.lt.ico",
     "slug": "foninis-zemelapis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.85%",
     "time": 593,
     "timeDay": 1204,
@@ -50,7 +51,8 @@
       "2026-06-01": 4,
       "2026-05-31": 70,
       "2026-06-15": 272,
-      "2026-06-16": 167
+      "2026-06-16": 167,
+      "2026-08-07": 10
     }
   },
   {
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vlkiis.lki.lt.ico",
     "slug": "test-down-service",
     "status": "down",
-    "uptime": "68.89%",
+    "uptime": "68.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.27%",
+    "uptimeYear": "64.21%",
     "time": 1880,
     "timeDay": 2894,
     "timeWeek": 3794,
@@ -72,7 +74,7 @@
     "dailyMinutesDown": {
       "2025-11-13": 17,
       "2025-11-28": 765,
-      "2026-08-07": 189,
+      "2026-08-07": 494,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -222,7 +224,7 @@
     "timeMonth": 742,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2026-08-07": 189,
+      "2026-08-07": 494,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
