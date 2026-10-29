@@ -1,7 +1,7 @@
 url: https://www.geoportal.lt
-status: down
-code: 403
-responseTime: 375
-lastUpdated: 2026-10-29T02:04:12.755Z
+status: up
+code: 200
+responseTime: 1217
+lastUpdated: 2026-10-29T14:12:50.791Z
 startTime: 2025-04-16T20:35:17.883Z
 generator: Upptime <https://github.com/upptime/upptime>
